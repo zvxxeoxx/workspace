@@ -90,4 +90,4 @@
   7. 로컬: git remote add [repository 주소]
   8. 로컬: git remote -v
   9. 로컬: git push -u origin master
-    - -u는 처음에 만들 때만 사용, 이후에는 제외하고 입력해도 무방방
+    - -u는 처음에 만들 때만 사용, 이후에는 제외하고 입력해도 무방
