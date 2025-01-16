@@ -3,7 +3,8 @@
 
 int main() {
     char name1[4] = "abc";
-    // char(4 Byte) → name2(16 Byte)
+    // char는 4 Byte가 아니고 1 Byte
+    // char(1 Byte) → name2(16 Byte)
     //  - 메모리 주소: 100번지 시작 100번지~115번지(name)
     //  - name2 호출하면 100번지 주소(배열의 시작번지 주소)를 가져다줌
     
